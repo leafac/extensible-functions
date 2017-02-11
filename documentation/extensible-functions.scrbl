@@ -12,7 +12,7 @@
 @tabular[#:style 'boxed
          #:sep @hspace[1]
          #:row-properties '(bottom-border)
-         `((, @bold{0.0.1} , @seclink["changelog/0.0.1"]{0.0.1})
+         `((, @bold{Version} , @seclink["changelog/0.0.1"]{0.0.1})
            (, @bold{Documentation} , @hyperlink["https://docs.racket-lang.org/extensible-functions"]{https://docs.racket-lang.org/extensible-functions})
            (, @bold{License} , @hyperlink["https://gnu.org/licenses/gpl-3.0.txt"]{GNU General Public License Version 3})
            (, @bold{Code of Conduct} , @hyperlink["http://contributor-covenant.org/version/1/4/"]{Contributor Covenant v1.4.0})
