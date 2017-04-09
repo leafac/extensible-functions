@@ -16,7 +16,7 @@
            (, @bold{Documentation} , @hyperlink["https://docs.racket-lang.org/extensible-functions"]{https://docs.racket-lang.org/extensible-functions})
            (, @bold{License} , @hyperlink["https://gnu.org/licenses/gpl-3.0.txt"]{GNU General Public License Version 3})
            (, @bold{Code of Conduct} , @hyperlink["http://contributor-covenant.org/version/1/4/"]{Contributor Covenant v1.4.0})
-           (, @bold{Distribution} , @hyperlink["https://pkgd.racket-lang.org/pkgn/package/extensible-functions"]{Racket package})
+           (, @bold{Distribution} , @hyperlink["https://pkgs.racket-lang.org/package/extensible-functions"]{Racket package})
            (, @bold{Source} , @hyperlink["https://git.leafac.com/extensible-functions"]{https://git.leafac.com/extensible-functions})
            (, @bold{Bug Reports} , @para{Write emails to @hyperlink["mailto:extensible-functions@leafac.com"]|{extensible-functions@leafac.com}|.})
            (, @bold{Contributions} , @para{Send @hyperlink["https://git-scm.com/docs/git-format-patch"]{patches} and @hyperlink["https://git-scm.com/docs/git-request-pull"]{pull requests} via email to @hyperlink["mailto:extensible-functions@leafac.com"]|{extensible-functions@leafac.com}|.}))]
@@ -121,7 +121,7 @@ In the code above, @racket[define/match/extensible] defines @racket[pretty-print
 
 @section[#:tag "installation"]{Installation}
 
-Extensible Functions are a @hyperlink["https://pkgd.racket-lang.org/pkgn/package/extensible-functions"]{Racket package}. Install it in DrRacket or with the following command line:
+Extensible Functions are a @hyperlink["https://pkgs.racket-lang.org/package/extensible-functions"]{Racket package}. Install it in DrRacket or with the following command line:
 
 @nested[#:style 'code-inset
         @verbatim|{
