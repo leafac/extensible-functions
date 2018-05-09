@@ -13,13 +13,13 @@
          #:sep @hspace[1]
          #:row-properties '(bottom-border)
          `((, @bold{Version} , @seclink["changelog/0.0.1"]{0.0.1})
-           (, @bold{Documentation} , @hyperlink["https://docs.racket-lang.org/extensible-functions"]{https://docs.racket-lang.org/extensible-functions})
+           (, @bold{Documentation} , @hyperlink["https://docs.racket-lang.org/extensible-functions/"]{Racket Documentation})
            (, @bold{License} , @hyperlink["https://gnu.org/licenses/gpl-3.0.txt"]{GNU General Public License Version 3})
            (, @bold{Code of Conduct} , @hyperlink["http://contributor-covenant.org/version/1/4/"]{Contributor Covenant v1.4.0})
-           (, @bold{Distribution} , @hyperlink["https://pkgs.racket-lang.org/package/extensible-functions"]{Racket package})
-           (, @bold{Source} , @hyperlink["https://git.leafac.com/extensible-functions"]{https://git.leafac.com/extensible-functions})
-           (, @bold{Bug Reports} , @para{Write emails to @hyperlink["mailto:extensible-functions@leafac.com"]|{extensible-functions@leafac.com}|.})
-           (, @bold{Contributions} , @para{Send @hyperlink["https://git-scm.com/docs/git-format-patch"]{patches} and @hyperlink["https://git-scm.com/docs/git-request-pull"]{pull requests} via email to @hyperlink["mailto:extensible-functions@leafac.com"]|{extensible-functions@leafac.com}|.}))]
+           (, @bold{Distribution} , @hyperlink["https://pkgs.racket-lang.org/package/extensible-functions"]{Racket Package})
+           (, @bold{Source} , @hyperlink["https://github.com/leafac/extensible-functions"]{GitHub})
+           (, @bold{Bug Reports} , @hyperlink["https://github.com/leafac/extensible-functions/issues"]{GitHub Issues})
+           (, @bold{Contributions} , @hyperlink["https://github.com/leafac/extensible-functions/pulls"]{GitHub Pull Requests}))]
 
 @section[#:tag "overview"]{Overview}
 
